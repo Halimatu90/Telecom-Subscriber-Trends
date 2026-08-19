@@ -7,7 +7,8 @@ Case Study: Lokogoma Community
 
 This report analyzes the Telecom Subscriber Trends Dashboard, providing an overview of key performance indicators (KPIs), network data usage, subscriber demographics, usage purposes, and device distributions based on the visual data presented.
 
-**Key Performance Indicators (KPIs)**[Telecom_Subscriber_Trends_Lokogoma_5000 (2).pdf](https://github.com/user-attachments/files/31213331/Telecom_Subscriber_Trends_Lokogoma_5000.2.pdf)
+**Key Performance Indicators (KPIs)**[Uploading Telecom_Subscriber_Trends_Lokogoma_5000.csv…]()
+
 [Project Topic Telecom.docx](https://github.com/user-attachments/files/31213279/Project.Topic.Telecom.docx)
 
 ![Telecom Subscriber Trends](https://github.com/user-attachments/assets/48e7e6d8-2620-4d32-8100-0445e5b17180)
